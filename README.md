@@ -2,10 +2,10 @@
 Just an image resizer to fit telegram's sticker size
 
 It just takes all the images from a folder and creates a new one with the images resized. 
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 Copyright 2020 Airam Hernández Rocha
 
 Licensed under the Apache License, Version 2.0 (the "License");
